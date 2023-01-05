@@ -1,0 +1,31 @@
+nav {
+	flex-basis: 15%;
+	background-color: burlywood;
+	margin: 10px 10px 0px 0px;
+}
+
+nav .wrapLink {
+	text-align: center;
+	padding: 15px 0px
+}
+
+nav a {
+	color: aliceblue;
+	font-size: 20px;
+	font-family: monospace;
+	font-weight: 700;
+	cursor: pointer;
+}
+
+nav a {
+	color: aliceblue;
+	font-size: 20px;
+	font-family: monospace;
+	font-weight: 700;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+nav a.active {
+	color: blue;
+}

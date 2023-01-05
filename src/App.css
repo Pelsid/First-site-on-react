@@ -1,0 +1,18 @@
+.app-wrapper {
+  max-width: 1300px;
+  margin: 40px auto;
+}
+
+.wrap {
+  display: flex;
+}
+
+.content {
+	flex-basis: 85%;
+	min-height: 500px;
+	background-color: blue;
+	margin: 10px 0px 0px 0px;
+}
+
+
+
